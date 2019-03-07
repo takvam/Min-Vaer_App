@@ -1,0 +1,11 @@
+#Denne filen inneholder Flask og andre miljøer vi trenger i WeatherApp-folderen.
+#Filen sørger for at vi kan holde styr på hvilke libraries vi skal bruke under prosjektet.
+Flask==0.12.3
+click==6.7
+gunicorn==19.7.1
+itsdangerous==0.24
+jinja2==2.9.6
+MarkupSafe==1.0
+pytz==2017.2
+requests==2.13.0
+Werkzeug==0.12.1
