@@ -56,3 +56,8 @@ http://api.openweathermap.org/data/2.5/weather?q=Drammen&mode=json&units=metric&
               'id': 300,
               'main': 'Drizzle'}],
  'wind': {'deg': 50, 'speed': 2.1}}
+
+Stegene framover:
+
+- Legge til en ny side for logg in
+- Legge til en database som lagrer brukerdata
